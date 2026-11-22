@@ -10,7 +10,7 @@ The marks, stars and notes in the picture are made up.
 
 ## Try it
 
-Download the repository from its page on GitHub (**Code**, then **Download ZIP**), unzip it and open `movie-night/movie-night.html` in a browser. It runs on a made-up sample of films and series. Every button works, and your changes last until you close the tab.
+Download the repository from its page on GitHub (**Code**, then **Download ZIP**), unzip it and open `movie-night/movie-night.html` in a browser. It runs on a made-up sample of films and series. Every button works. Your changes last until you close the tab.
 
 ## Make it yours
 
@@ -22,7 +22,7 @@ Claude asks you three things, one at a time: the first names of the two of you, 
 
 ## What it needs
 
-A Claude plan that can publish a private page with a database. The author uses the page this way with one other person. No other person has run this setup, and whether a second person can save changes from their own account is untested.
+A Claude plan that can publish a private page with a database. I use the page this way with one other person. No other person has run this setup. Whether a second person can save changes from their own account is untested.
 
 ## What stays private
 

@@ -44,7 +44,7 @@ Linux x86_64 is what `scripts/setup.sh` supports. It needs `make`, `curl`, `unzi
 
 ## Change it with Claude
 
-Open Claude Code in this folder and paste one of these prompts. The author has tried neither.
+Open Claude Code in this folder and paste one of these prompts. I have tried neither.
 
 **Make it playable in a browser**
 
@@ -57,7 +57,7 @@ Open Claude Code in this folder and paste one of these prompts. The author has t
 ## Limits
 
 - The scripts test the game in three emulator cores: snes9x2002, snes9x2005 and snes9x.
-- The author reports that it runs on one retro game stick. No other real device has been tried.
+- I play it on one retro game stick. No other real device has been tried.
 - The game has no sound yet.
 - The game is unfinished.
 
