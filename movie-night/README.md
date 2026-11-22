@@ -2,6 +2,8 @@
 
 A page for two people to choose what to watch. It deals one pick for tonight, keeps a To watch list and a Seen list, and takes a star rating from each of you.
 
+Why I built it: I had a hard time choosing a film or series to watch. I preferred to back the choice with data and skip the endless scrolling through streaming services.
+
 ![Movie Night on a desktop screen: a dark marquee header, tabs for Tonight, To watch and Seen, and a ticket with tonight's pick.](docs/movie-night.png)
 
 The marks, stars and notes in the picture are made up.

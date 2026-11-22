@@ -2,6 +2,8 @@
 
 An original kart racer for two players on one screen, made as a Super Nintendo game, with the source, the tools and the tests that built it.
 
+Why I built it: my wife wanted to play Mario Kart. The emulator we had did not have it, so I built her a similar kart game.
+
 ![Two karts racing, the screen split top and bottom](docs/img/race.png)
 
 The art and names are original. Nothing comes from Nintendo. "Super Nintendo" names the console the game file targets.
