@@ -48,7 +48,7 @@ Open Claude Code in this folder and paste one of these prompts. I have tried nei
 
 **Make it playable in a browser**
 
-> Read README.md and docs/engine.md. I want to play couch-kart.sfc in a web browser. Propose how to run it on a web page with an open-source Super Nintendo emulator that is compiled for the browser. Before you choose an emulator, name its licence and say what that licence allows, including whether I can publish the page. Ask me before you add any file, download or dependency. Keep couch-kart.sfc unchanged. Then build one page with keyboard controls for two players.
+> Read README.md and docs/engine.md. I want to play couch-kart.sfc in a web browser. Propose how to run it on a web page with an open-source Super Nintendo emulator that is compiled for the browser. Before you choose an emulator, name its license and say what that license allows, including whether I can publish the page. Ask me before you add any file, download or dependency. Keep couch-kart.sfc unchanged. Then build one page with keyboard controls for two players.
 
 **Make it multiplayer beyond one couch**
 
@@ -61,6 +61,6 @@ Open Claude Code in this folder and paste one of these prompts. I have tried nei
 - The game has no sound yet.
 - The game is unfinished.
 
-## Licence
+## License
 
 MIT, see `../LICENSE` at the repository root. Third-party notices are in `THIRD-PARTY-NOTICES.md`.

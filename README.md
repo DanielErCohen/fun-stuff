@@ -13,4 +13,4 @@ The tools I use for product work are in their own repositories, listed on https:
 
 ## License
 
-MIT, copyright Daniel Cohen 2026, see [LICENSE](LICENSE). Couch Kart is built with third-party tools that have their own licences: [couch-kart/THIRD-PARTY-NOTICES.md](couch-kart/THIRD-PARTY-NOTICES.md).
+MIT, copyright Daniel Cohen 2026, see [LICENSE](LICENSE). Couch Kart is built with third-party tools that have their own licenses: [couch-kart/THIRD-PARTY-NOTICES.md](couch-kart/THIRD-PARTY-NOTICES.md).

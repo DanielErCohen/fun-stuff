@@ -28,6 +28,6 @@ A Claude plan that can publish a private page with a database. I use the page th
 
 Your list, ratings and marks are saved in the database of your own private page. Claude writes your names and services into a copy of the file in your own folder, and the downloaded files stay as they are. The page loads its two fonts from Google Fonts, so opening it makes that one request.
 
-## Licence
+## License
 
 MIT, see [../LICENSE](../LICENSE).
